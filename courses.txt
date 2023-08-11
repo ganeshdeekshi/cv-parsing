@@ -3,3 +3,4 @@ aws
 kubernetes
 python course
 jenkins
+agrocd training
