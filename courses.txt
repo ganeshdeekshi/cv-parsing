@@ -4,3 +4,4 @@ kubernetes
 python course
 jenkins
 agrocd training
+java
